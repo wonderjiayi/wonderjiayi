@@ -71,19 +71,6 @@ Including interaction design, spatial experience, nature-inspired systems, and v
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonderjiayi&show_icons=true&theme=calm)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderjiayi&layout=compact&theme=calm)
-
-![Streak Stats](https://streak-stats.demolab.com?user=wonderjiayi&theme=calm)
-
-</div>
-
----
 
 ## ✉️ Contact
 - **Email:** *(add here if you want)*  
