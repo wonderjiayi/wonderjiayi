@@ -53,7 +53,7 @@ If you’re interested in collaborating or learning more about my work, feel fre
 A nature-inspired research and social platform for bird audio analysis, user-generated content, and interactive visualization.  
 **Tech:** Spring Boot, Hibernate, JSP, React, MySQL, audio processing UI  
 **Highlights:** likes, comments, audio player, spectrogram, bird detail pages, map & habitat system  
-🔗 GitHub Repo: *(add link later)*  
+
 
 ---
 
@@ -61,7 +61,7 @@ A nature-inspired research and social platform for bird audio analysis, user-gen
 A desktop application that recommends trails and animals based on terrain, seasons, and wildlife behavior.  
 **Tech:** JavaFX, OOP architecture, custom ADTs, dynamic UIs  
 **Highlights:** map integration, animal calendar, filtering, interactive interface  
-🔗 GitHub Repo: *(add link later)*  
+
 
 ---
 
