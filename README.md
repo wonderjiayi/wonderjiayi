@@ -1,4 +1,4 @@
-# Hi, I'm Jovie (WonderJiayi) 🌿  
+# Hi, I'm Jovie (Jiayi Wang) 🌿  
 ### A hybrid Designer–Engineer exploring the connection between **human, nature, technology, and art**
 
 ---
