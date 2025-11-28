@@ -60,10 +60,13 @@ A desktop application that recommends trails and animals based on terrain, seaso
 
 ---
 
-### 🎨 **UI/UX & Design Portfolio**
-Including interaction design, spatial experience, nature-inspired systems, and visualization works.  
-📄 Portfolio PDF:  
-🔗 https://www.dropbox.com/scl/fi/eupqmqaotbdeahowjbjwh/UT.pdf?rlkey=x1bpj3oeo0870fz9nk888e51n&e=1&dl=0
+### 🎨 Design & Visualization Portfolio
+This portfolio showcases how I transform **data, biological insights, and environmental systems** into interactive and computational visualizations. I focus on translating complex natural phenomena—such as animal behavior, ecological rhythms, and spatial distribution patterns—into clear and interpretable visual structures.
+
+If you are interested in the journey from **natural observation → data exploration → digital expression**, this collection offers a concise glimpse into that process.
+
+📄 View Portfolio (PDF):  
+https://www.dropbox.com/scl/fi/eupqmqaotbdeahowjbjwh/UT.pdf?rlkey=x1bpj3oeo0870fz9nk888e51n&e=1&dl=0
 
 
 ---
