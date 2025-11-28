@@ -4,13 +4,12 @@
 ---
 
 ## 👩🏻‍💻 About Me
-I am a graduate student in **Information Systems at Northeastern University**, with a background in **Industrial Design** and strong interests in **UI/UX design, data-driven systems, and full-stack development**.
+I am currently pursuing a Master’s degree in Information Systems at Northeastern University, with a solid programming foundation and a multidisciplinary background. I am particularly interested in the intersection of **data analysis, system development, and the natural sciences**.
 
-My work often blends **aesthetics, human experience, and computational thinking**, aiming to create tools and interfaces that help people understand nature, emotion, and complex systems more intuitively.
+In both academic and project work, I use technology to understand and model real-world complexity—from biological behavior and ecological patterns to user activity data. Whether I am building full-stack applications, working with data models, or creating interactive tools, I aim to make data more intuitive and meaningful for insights and decision-making.
 
----
+I have a long-standing interest in nature and life systems, especially in studying animals, ecology, and environmental data. I hope to bridge technology and the life sciences in the future, turning my passion for biology and nature into impactful digital products.
 
-## 🌱 Guiding Philosophy — *"Design is where humanity meets nature; technology is how we translate it into experience."*
 
 ---
 
@@ -67,15 +66,9 @@ Including interaction design, spatial experience, nature-inspired systems, and v
 📄 Portfolio PDF:  
 🔗 https://www.dropbox.com/scl/fi/eupqmqaotbdeahowjbjwh/UT.pdf?rlkey=x1bpj3oeo0870fz9nk888e51n&e=1&dl=0
 
-🔗 Figma Projects: *(add link later)*
 
 ---
 
 
-## ✉️ Contact
-- **Email:** *(add here if you want)*  
-- **LinkedIn:** *(optional)*  
-
----
 
 ### Thanks for visiting my profile! 🌿  
