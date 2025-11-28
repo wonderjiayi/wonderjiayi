@@ -10,6 +10,11 @@ In both academic and project work, I use technology to understand and model real
 
 I have a long-standing interest in nature and life systems, especially in studying animals, ecology, and environmental data. I hope to bridge technology and the life sciences in the future, turning my passion for biology and nature into impactful digital products.
 
+## 📬 Contact
+If you’re interested in collaborating or learning more about my work, feel free to reach out:
+
+- **Email:** wonderjiayi@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jiayi-wang-425726330
 
 ---
 
