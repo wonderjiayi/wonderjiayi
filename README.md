@@ -72,6 +72,13 @@ If you are interested in the journey from **natural observation → data explora
 
 📄 View Portfolio (PDF):  
 https://www.dropbox.com/scl/fi/eupqmqaotbdeahowjbjwh/UT.pdf?rlkey=x1bpj3oeo0870fz9nk888e51n&e=1&dl=0
+![Frame 31](https://github.com/user-attachments/assets/324af423-a808-4cff-a1d3-5ad765821b94)
+
+![19](https://github.com/user-attachments/assets/2b089a1d-3635-4534-ad6f-5c018373ec60)
+
+![02](https://github.com/user-attachments/assets/4bc356b5-8ed7-4361-a063-8ca91192a6a3)
+
+
 
 
 ---
